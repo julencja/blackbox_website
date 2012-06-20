@@ -1,0 +1,74 @@
+---
+layout: default
+title: About | Blackbox.vc
+aboutClassActive: 'class="active"'
+---
+
+<header class="jumbotron subhead">
+  <h1>Recent Press</h1>
+</header>
+
+<section>
+<h2>World</h2>
+
+* "*TechCrunch* | European startups need to get a Valley education, and fast":http://techcrunch.com/2012/05/24/european-startups-need-to-get-a-valley-education-and-fast/
+
+* "*Women 2.0* | Discovering the entrepreneur inside of me":http://www.women2.com/discovering-the-entrepreneur-inside-of-me/
+
+* "*Women 2.0* | Homework for a European startup ecosystem":http://www.women2.com/homework-for-a-european-startup-ecosystem/
+
+* "*Women 2.0* | At age 17, Sara Naseri and Emilie Kjeldsen invent new sun-protective technology":http://www.women2.com/at-age-17-sara-naseri-and-emilie-kjeldsen-invent-new-sun-protective-technology/
+
+* "*Scobleizer* | Check out this Silicon Valley pressure cooker: A mansion full of entrepreneurs [VIDEO]":http://www.youtube.com/watch?v=Cg6IxAzU4uc&feature=plcp
+
+* "*TheNextWeb* | Angel Fadi Bishara: Everyone has an entrepreneur inside of them [VIDEO]":http://thenextweb.com/video/2011/04/14/video-angel-fadi-bishara-everyone-has-an-entrepreneur-inside-of-them/
+
+* "*Swissnex San Francisco* | Swissnex San Francisco hosted Blackbox Connect participants":http://swissnexsanfrancisco.org/aboutus/newscenter/news/blackbox-connect
+
+* "*The Daily Attack* | Blackbox.vc Connect, incubator in a mansion":http://thedailyattack.com/2012/04/26/blackbox-vc-connect-incubator-in-a-mansion/</section>
+
+<h2>Latin America</h2>
+
+* "*Lisandro Bril* | Blackbox Connect – the destination for startup entrepreneurs in Palo Alto":http://lisandrobril.wordpress.com/2012/02/14/blackbox-connect-the-destination-for-start-up-entrepreneurs-in-palo-alto/
+
+<h2>The UK</h2>
+
+* "*The Guardian* | Tech Weekly Podcast":http://www.guardian.co.uk/technology/audio/2012/jun/06/tech-weekly-podcast-e3-2012
+
+<h2>Germany</h2>
+
+* "*The European Pitare Summit* | The mystery about the Blackbox":http://piratesummit.com/2012/04/24/the-mystery-about-the-blackbox/
+
+* "*Medien.nrw* | Thanks for ignoring them. Homework for a European startup ecosystem":http://medien.nrw.de/apollo-m/2012/03/01/thanks-for-ignoring-them-homework-for-a-european-startup-ecosystem/
+
+<h2>Poland</h2>
+
+* "*AK74* | Julia Krysztofiak-Szopa (Blackbox.vc): Czerpiemy z najlepszych wzorców Doliny Krzemowej":http://blog.kurasinski.com/2012/04/17/julia-krysztofiak-szopa-blackbox-vc-czerpiemy-z-najlepszych-wzorcow-doliny-krzemowej/
+
+* "*NaTemat.pl* | Czy twoja firma ma szansę w Krzemowej Dolinie?":http://szopa.natemat.pl/17065,czy-twoja-firma-ma-szanse-w-krzemowej-dolinie
+
+* "*NaTemat.pl* | 5 prac domowych przed wizytą w Dolinie Krzemowej":http://szopa.natemat.pl/11991,5-prac-domowych-przed-wizyta-w-dolinie-krzemowej
+
+* "*InSourcePR* | StartUp – pytania na które musisz znać odpowiedź przed spotkaniem z Inwestorem":http://www.insourcepr.com/blog/startup-pytania-na-ktore-musisz-znac-odpowiedz-przed-spotkaniem-z-inwestorem/
+
+* "*Startup Weekend Trojmiasto* | Brainstorming session with Fadi Bishara from Blackbox.vc":http://trojmiasto.startupweekend.org/2012/05/29/brainstorming-session-with-fadi-bishara-from-blackbox-vc/
+
+<h2>Russia & Ukraine</h2>
+
+* "*AIN.ua* | Открыт прием заявок от стартапов в международную программу Blackbox Connect":http://ain.ua/2012/05/24/85841
+
+* "*Starupfisha.ru* | Открыт прием заявок от стартапов в международную программу Blackbox Connect":http://startupafisha.ru/about/news/item/otkryt-priem-zayavok-ot-startapov-v-mezhdunarodnuy/ 
+
+* "*DOU.ua* | Андрей Хаврюченко, 42 Coffee Cups: «Главная задача для предпринимателя тут — стать частичкой Долины":http://dou.ua/lenta/interviews/andrej-havryuchenko/
+
+* "*Freshle.com* | Blackbox Connect – познакомиться с Долиной, 10% скидка от Freshle.com":http://freshle.com/blog/blackbox/
+
+
+<h2>South Korea</h2>
+* "*BeSuccess* | 펀그랩 채진석 대표 인터뷰 part2, Blackbox를 가다!":http://www.besuccess.com/?p=8093
+
+<h2>Australia</h2>
+
+* "*Michael Overell* | Work In Progress: Big Brother meets the Playboy Mansion, for startups":http://www.moverell.com/post/22147324557/blackbox-connect-big-brother-meets-the-playboy
+
+* "*StartUpSmart* | Aussie entrepreneur picked for Sillicon Valley Big Brother house":http://www.startupsmart.com.au/strategy/aussie-entrepreneur-picked-for-silicon-valley-big-brother-house/201205016154.html

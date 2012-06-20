@@ -1,0 +1,27 @@
+---
+layout: post
+title: Clojure West Recap and Introduction to Clojure
+category: events
+eventDate: March 24th 2012
+---
+
+
+<img src="/static/img/events_clojure1.png" alt="Hacker BBQ at the blackbox mansion" class="avatar">
+
+A weekend after "Clojure West":http://clojurewest.org/ we invite you to come and join "Clojure on the Penninsula":http://www.meetup.com/The-Bay-Area-Clojure-User-Group/events/55667422/ meetup, hosted for the first time at the "*blackbox mansion*":http://blackbox.vc/mansion.
+
+The meetings have been in SF recently and there is a lot of people excited about Clojure and interested in meeting others in the SV area. So, in cooperation with "BA Lisp":http://balisp.org/ this is going to be the first in a series of Clojure meetups hosted in the peninsula.
+
+
+
+*Clojure in Silicon Valley: Clojure West Recap and Introduction to Clojure*
+
+Agenda:
+* 2pm - Intro/Overview talks, Clojure West recap and lighting talks.
+* 4pm - Burgers, beers, small group Clojure conversation and hacking.
+
+
+"Please register for the event here":http://www.meetup.com/The-Bay-Area-Clojure-User-Group/events/55667422/ and keep your RSVP accurate so that we know how much food and drink to get. 
+
+We're organizing a couple of short talks, a Clojure West recap panel and some lightning talks. If you are interested in participating, please contact "Julio Barros":http://www.meetup.com/The-Bay-Area-Clojure-User-Group/members/2586840/.
+

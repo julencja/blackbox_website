@@ -1,0 +1,17 @@
+---
+layout: post
+title: Bay Area Lisp Meetup Revival
+category: events
+eventDate: January 28th 2012
+---
+
+Come learn from fellow "hackers & functional programming geeks":http://balisp.org/ as they give educational lightning talks (4.5 minute presentations) each designed to communicate a practical or theoretical insight. Or just hang out and drink beer with us as we revive the Bay Area lisp meetup group. The "suggested" topic for this month's event is distributed & parallel computing. There will be lightning talks by:
+
+* Jay Reynolds Freeman
+* Patrick Collison
+* Matt Knox
+* Ron Garret
+* Ric Szopa
+* Mike Bobak
+
+

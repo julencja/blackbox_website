@@ -1,0 +1,35 @@
+---
+layout: post
+title: Cofounder Dinner with Erin Rapacki at Blackbox Mansion
+category: events
+eventDate: March 22nd 2012
+ogDescription: 'Join us for Cofounder Network Dinner with Erin Rapacki, who will be talking about the Future of Robotics Startups.'
+---
+
+If you want to meet the unique international community of *blackbox* entrepreneurs and discover new startup opportunities, join us this Thursday for a monthly Cofounder Dinner event at the *blackbox mansion* in Atherton.
+
+<img src="/static/img/erin.jpg" alt="Erin Rapacki" class="avatar">
+
+Guest speaker this month is "Erin Rapacki":http://www.linkedin.com/in/erapacki, the Product Marketing Manager for Mobile Robots at "Adept Technology, Inc.":http://www.adept.com/ and she will give a talk about how to start a robotics company without building any hardware.
+
+Previous *Cofounder Dinner Speakers* include:
+"Janice Fraser":http://luxr.co/about/team/#janice_fraser, CEO of LUXr.co
+"Carlin Wiegner":http://www.linkedin.com/in/carlinw, serial entrepreneur
+"Daniel Zimmerman":http://www.linkedin.com/pub/daniel-zimmermann/0/33/9ab, partner at WilmerHale
+"Emil Eifrem":http://www.linkedin.com/in/emileifrem, Neo4j
+"Ben Smith":http://www.linkedin.com/pub/ben-buddy-smith-iii/0/815/241, merchantcircle.com
+
+<div style="width:100%; text-align:left; margin-top: 33px;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=2914490319&ref=etckt" frameborder="0" height="192" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://cofodinner9.eventbrite.com?ref=etckt" >Cofounder Dinner at Blackbox Mansion</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>
+
+
+Erin ("@RobotDiva":https://twitter.com/robotdiva) has over 10 year robotics experience across academia and industry. Her projects range from military casualty extraction, assistive living devices, and pioneering the video conferencing robot in her role as a Chief Product Officer for "Anybot, Inc.":https://www.anybots.com/#front Currently, as the product marketing manager for Adept Technology, she is responsible for productizing autonomous navigation software and hardware. She holds BS & MS in Mechanical and Industrial Engineering degrees form Northeastern University and the University of University of Massachusetts where she's developed a robotic hand to help people in wheelchairs open doors. 
+
+Dinner's Agenda:
+* *6:30 PM*  Networking & Dinner + Drinks
+* *7:30 PM*  Guest Speaker:  "Erin Rapacki":http://www.linkedin.com/in/erapacki, "The Future of Robotics Startups"
+* *8:00 PM*  90 seconds individual introduction + pitch your project/startup
+* *9:45 PM*  Networking
+
+"Click here":http://cofodinner9.eventbrite.com/ to sign up.
+
+Looking Forward to seeing you!

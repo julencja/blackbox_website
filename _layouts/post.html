@@ -1,0 +1,44 @@
+---
+layout: default
+eventsClassActive: 'class="active"'
+---
+
+<header class="jumbotron subhead">
+        <h1>Blackbox is a community of inspiring entrepreneurs</h1>
+        <p class="lead">We host regular events such as <strong>cofounder</strong> dinners, <strong>hacker</strong> meetups or exclusive meetings with Silicon Valley's top Thought Leaders and Entrepreneurs.</p>
+        <p class="lead"><a class="btn btn-large btn-primary" data-toggle="modal" href="#myModal">Subscribe to our mailing list&raquo;</a></p>
+</header>
+
+
+<div class="row">
+    <section class="span7">
+    <article>
+        <h1>{{page.title}} // {{page.eventDate}}</h1>
+                <aside class="articleButtons">
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://blackbox.vc{{page.url}}" data-text="{{page.title}}">Tweet</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                    <g:plusone size="medium" width="100" href="http://blackbox.vc{{page.url}}"></g:plusone>
+                    <div class="fb-like" data-href="http://blackbox.vc{{page.url}}" data-send="false" data-layout="button_count" data-width="200" data-show-faces="false"></aside>
+        {{page.content|textilize}}
+        </article>
+    </section>
+
+    <section class="span4 offset1">
+        <h2>Recent events</h2>
+        <ul class="nav nav-pills nav-stacked">
+        {% for post in site.categories.events limit:5 %}
+            <li><a href="{{post.url}}">{{post.title}} // {{post.eventDate}}</a></li>
+        {% endfor %}
+        </ul>
+
+        <h2>Join us on Twitter</h2>
+        <a href="https://twitter.com/blackboxvc" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @blackboxvc</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            <br>            
+            <br>
+        <h2>Find us on Facebook</h2>
+        <div class="fb-like-box" data-href="http://www.facebook.com/blackboxvc" data-width="300" data-show-faces="true" data-border-color="#cccccc" data-stream="false" data-header="false"></div>
+
+    </section>
+</div>    
+

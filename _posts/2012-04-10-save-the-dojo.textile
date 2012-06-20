@@ -1,0 +1,18 @@
+---
+layout: post
+title: Save the Dojo! Hacker Dojo Fundraiser at blackbox
+category: events
+eventDate: April 10th 2012
+---
+Help to save the "Hacker Dojo":http://www.hackerdojo.com/ and join the Fundraiser at blackbox mansion!
+All ticket purchasers, through their support of Hacker Dojo, demonstrate their advocacy of creativity and innovation in Silicon Valley.
+Special guest: "Robert Scoble":http://scobleizer.com/!
+
+<div style="width:100%; text-align:left;" ><iframe  src="http://www.eventbrite.com/tickets-external?eid=3051630509&ref=etckt" frameborder="0" height="352" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt" >Online Ticketing</a><span style="color:#ddd;" > for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://blackboxhackerdojofundraiser.eventbrite.com?ref=etckt" >Hacker Dojo Fundraiser @ the blackbox mansion</a><span style="color:#ddd;" > powered by </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt" >Eventbrite</a></div></div>
+
+The Fundraiser’s Agenda:
+* *6:00 PM* Exclusive meetup with Robert Scoble @scobleizer (only for people with category 3 tickets or higher will be admitted)
+* *7:00 PM* Networking & light Dinner + Drinks
+* *7:30 PM* Guest Speaker: David Weekly, Founding Director of Hacker Dojo
+
+"Register here &raquo;":http://blackboxhackerdojofundraiser.eventbrite.com/

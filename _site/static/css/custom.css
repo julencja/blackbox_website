@@ -1,0 +1,93 @@
+body {
+    padding-top: 80px;
+    background: url(../img/bkg_1.png) repeat-x top center;
+}
+
+.align-center {
+    text-align: center;
+}
+
+/*Carousel on home page*/
+.hpCarousel {
+    margin-top: -20px;
+}
+
+/*Additional paddings*/
+.row {
+    padding: 20px 0;
+}
+
+.page-header {
+    margin: 40px 0 20px 0;
+}
+.jumbotron {
+    padding: 40px 0;
+    text-shadow: 0 1px 0 #fff;
+}
+
+/*Jumbotron bigger fonts*/
+.jumbotron h1 {
+    font-size: 42px;
+    line-height: 1.2;
+}
+
+.jumbotron .btn-large {
+    font-size: 20px;
+    font-weight: normal;
+    padding: 14px 24px;
+    margin-right: 10px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+
+/*_layouts/connect.html*/
+.sidebar-connect section {
+    margin: 0 0 30px 0;
+}    
+
+/*Footer */
+footer {
+    padding: 40px 0;
+    background: url(../img/bkg_1.png) repeat-x top center;
+    text-align: center;
+    border-top: solid 1px #ccc;
+    text-shadow: 0 1px #fff;
+}
+
+.siteButtons {                        /*class to wrap social buttons in footer*/
+    margin: 30px 0;
+}
+.footerBtn {
+    display: inline;
+}
+
+/*Handy classes for typography and layouts*/
+.center-align {
+    text-align:center;
+}
+
+.navHighlight {                     /*class for highlighting the "Sign up for mailing list" link in nav*/
+    color: #0074CC !important;
+    background: #fff !important;
+    text-shadow: 0 2px 0 #fff !important;
+    padding: 3px 5px;
+    border-radius: 2px;
+}
+
+/*Events & blogposts*/
+article .avatar {                   /*class for pictures embedded in _posts/ textile files*/
+    float: right;
+    margin: 10px 0 20px 20px;
+    padding: 5px;
+    box-shadow: 0 0 5px #ccc;
+}
+
+article .articleButtons {
+    margin: 10px 0;
+}
+
+    
+
+

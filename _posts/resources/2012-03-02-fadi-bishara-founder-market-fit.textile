@@ -1,0 +1,12 @@
+---
+layout: resource
+title: "Fadi Bishara // Founder/Market Fit"
+category: videos
+video_id: sgfYvuKlap0
+thumbnail: http://i4.ytimg.com/vi/sgfYvuKlap0/default.jpg
+video: http://www.youtube.com/embed/sgfYvuKlap0
+
+ogDescription: 'Fadi Bishara of blackbox.vc on Founder/Market Fit and Finding Your Passion & Building Your Startup Core Team.'
+---
+
+"Fadi Bishara":http://www.linkedin.com/in/fadibishara, the founder of blackbox, gives a talk on Founder/Market Fit and Finding Your Passion & Building Your Startup Core Team.

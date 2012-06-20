@@ -1,0 +1,29 @@
+---
+layout: default
+title: blackbox resources
+resourcesClassActive: 'class="active"'
+ogDescription: "Learn entrepreneurship from the best. Watch the videos and presentations of blackbox connect speakers"
+---
+
+<section class="lead">
+    <section class="video"> 
+       	<img src="/static/img/player.png" alt="Play" class="videoPlaceholder">
+		<iframe width="570" height="290" src="http://www.youtube.com/embed/icnrUHD07hk" frameborder="0" allowfullscreen></iframe>
+    </section>
+	<aside>
+		<h2>Follow us on:</h2>
+		<a href="http://www.youtube.com/user/blackboxvc" class="follow"><img src="/static/img/youtube.png" alt="Follow us on YouTube"></a>
+		<a href="http://www.slideshare.net/blackboxconnect" class="follow"><img src="/static/img/slideshare.png" alt="Follow us on Slideshare"></a>
+	</aside>
+</section>
+
+<section class="full">
+	<h2>Talks and Workshops from <a href="/connect">blackbox connect</a>:</h2>
+{% for post in site.categories.videos %}
+    <section class="resources {% cycle '', '','nomargin' %}">
+        <h1><a href="{{post.url}}">{{post.title}}</a></h1>
+		<a href="{{post.url}}" class="thumbnail"><img src="http://i2.ytimg.com/vi/{{post.video_id}}/hqdefault.jpg" alt="{{post.title}}"></a>
+    </section>
+{% endfor %}
+</section>
+

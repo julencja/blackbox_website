@@ -1,0 +1,13 @@
+safe:        false
+auto:        true
+server:      false
+server_port: 4000
+baseurl:    /
+
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+paginate:    1
+permalink:   /:categories/:title.html
+time: 2012-01-17 12:00
+

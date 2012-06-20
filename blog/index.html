@@ -1,0 +1,87 @@
+---
+layout: default
+title: blackbox blog
+blogClassActive: 'class="active"'
+ogDescription: "blackbox hosts regular events such as cofounder dinners, hacker meetups or exclusive meetings with Silicon Valley's top entrepreneurs."
+---
+
+    <!--section class="lead">
+        <h2>Here at <em>blackbox</em> we host regular events such as <em>cofounder</em> dinners, <em>hacker</em> meetups or exclusive meetings with Silicon Valley's top thought leaders and entrepreneurs.</h2>
+        <p class="applyButton"><a href="#" class="applyButton open">Subscribe to the mailing list!</a></p>
+    </section-->
+
+    <section class="twoThirdLeft">
+    {% for post in site.categories.blog %}
+        <article>
+            <h1><a href="{{post.url}}">{{post.title}}</a></h1>
+	    <aside class="meta">{{post.author}} // {{post.datePublished}}</aside>
+            <aside class="articleButtons">
+                <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://blackbox.vc{{post.url}}" data-text="{{post.title}} // {{post.eventDate}}">Tweet</a>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                <g:plusone size="medium" width="100" href="http://blackbox.vc{{post.url}}"></g:plusone>
+                <div class="fb-like" data-href="http://blackbox.vc{{post.url}}" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+            </aside>
+            {{post.content}}
+        </article>
+    {% endfor %}
+    </section>
+    
+    <section class="thirdRight">
+        <h1>Previous entries</h1>
+        <ul>
+        {% for post in site.categories.blog limit:5 offset:1 %}
+            <li><a href="{{post.url}}">{{post.title}} // {{post.eventDate}}</a></li>
+        {% endfor %}
+        </ul>
+    </section>
+
+    <section class="thirdRight likebox">   
+        <div class="fb-like-box" data-href="https://www.facebook.com/blackbox.vc" data-width="300" data-show-faces="true" data-stream="false" data-header="false"></div>        
+    </section>
+
+
+
+    <section class="mailingListSignup">
+        <a href="#" class="close">[x] close</a>
+		<!-- Begin MailChimp Signup Form -->
+		<link href="http://cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+		<style type="text/css">
+			#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+			/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+			   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+		</style>
+		<div id="mc_embed_signup">
+		<form action="http://blackbox.us4.list-manage.com/subscribe/post?u=fa0ed72f081ca7da2eb954e9e&amp;id=f916dfaa95" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+			<h2>Subscribe to our mailing list</h2>
+		<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+		<div class="mc-field-group">
+			<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+		</label>
+			<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+		</div>
+		<div class="mc-field-group">
+			<label for="mce-FNAME">First Name  <span class="asterisk">*</span>
+		</label>
+			<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+		</div>
+		<div class="mc-field-group">
+			<label for="mce-LNAME">Last Name  <span class="asterisk">*</span>
+		</label>
+			<input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
+		</div>
+		<div class="mc-field-group input-group">
+		    <strong>Email Format </strong>
+		    <ul><li><input type="radio" value="html" name="EMAILTYPE" id="mce-EMAILTYPE-0"><label for="mce-EMAILTYPE-0">html</label></li>
+		<li><input type="radio" value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1"><label for="mce-EMAILTYPE-1">text</label></li>
+		<li><input type="radio" value="mobile" name="EMAILTYPE" id="mce-EMAILTYPE-2"><label for="mce-EMAILTYPE-2">mobile</label></li>
+		</ul>
+		</div>
+			<div id="mce-responses" class="clear">
+				<div class="response" id="mce-error-response" style="display:none"></div>
+				<div class="response" id="mce-success-response" style="display:none"></div>
+			</div>	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+		</form>
+		</div>
+		<!--End mc_embed_signup-->
+    </section>
+
